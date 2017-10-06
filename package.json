@@ -1,0 +1,17 @@
+{
+  "name": "builder-issue142",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"create-project": "builder-init builder-issue142-component"
+  },
+  "dependencies": {
+  	"builder-issue142-component": "^1.0.0"
+  },
+  "devDependencies": {
+  	"builder-init": "^0.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
